@@ -1,6 +1,6 @@
 #%%
 # =============================================================================
-# DPOAE Growth Analysis Toolkit
+# DPOAE Growth Function fitting Toolkit
 # Author: Leny  Vinceslas (University College London)
 # =============================================================================
 # Comprehensive distortion-product workflow that ingests DP and GR CSV exports

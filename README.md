@@ -1,4 +1,4 @@
-# DPOAE Growth Analysis Toolkit
+# DPOAE Growth Function fitting Toolkit
 
 Distortion-product otoacoustic emission (DPOAE) growth-function pipeline for DP/GR data exported from **Otodynamics Echoport 292 with ILOv6**. The workflow also works with any dataset that preserves the same column layout (e.g., `Freq (Hz)`, `F1 (dB)`, `F2 (dB)`, `DP (dB)`, `Noise±sd (dB)`, `2F2-F1 (dB)`, etc.).
 
